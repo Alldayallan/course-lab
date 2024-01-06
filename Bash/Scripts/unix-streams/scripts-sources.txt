@@ -1,0 +1,6 @@
+echo -e "Apple\nCarrot\nBanana\nApple" | sort | uniq -c | grep Apple
+
+ps -ef | grep python
+
+echo 1993
+echo 1993 | rev
